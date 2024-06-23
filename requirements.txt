@@ -1,0 +1,6 @@
+pypdf
+langchain_chroma
+langchain_openai 
+langchain-openai
+langchain_community
+rapidocr-onnxruntime
